@@ -17,3 +17,5 @@ The two functions **plot_topics_split()** and **plot_words_importance()** enable
     
 ##### plot_words_importance()
 ![alt text](https://github.com/charlesdurand/articles_classification/blob/master/images/word_importance.png)
+
+*This examples uses 800 articles from NYTimes, on the September, 10th 2014*
