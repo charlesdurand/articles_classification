@@ -12,10 +12,10 @@ The function **categorize()** enables the classification by topic, given a numbe
 
 The two functions **plot_topics_split()** and **plot_words_importance()** enable to visualize the categorisation:
 
-##### plot_topics_split()
+###### plot_topics_split():
 ![alt text](https://github.com/charlesdurand/articles_classification/blob/master/images/topic_split.png)
     
-##### plot_words_importance()
+###### plot_words_importance():
 ![alt text](https://github.com/charlesdurand/articles_classification/blob/master/images/word_importance.png)
 
-*This examples uses 800 articles from NYTimes, on the September, 10th 2014*
+*This examples uses 800 articles from NYTimes, on the September, 10th 2014.*
